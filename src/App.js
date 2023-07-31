@@ -10,8 +10,8 @@ function App() {
           <span className="text-xl font-mono">
             🖐 Hola mi nombre es Gabriel Agüero soy programador Front-end 👨‍💻. En
             estos momentos estoy trabajando en mejorar el sitio web para
-            brindarte una mejor experiencia durante tu estadio en el sitio !!!
-            Pronto va a Pronto va a estar disponible !!!
+            brindarte una mejor experiencia de navegación en el sitio !!! Pronto
+            va a a estar disponible !!!
           </span>
         </div>
 
