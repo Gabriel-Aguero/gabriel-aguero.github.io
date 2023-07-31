@@ -1,40 +1,6 @@
-.App {
-  text-align: center;
-  margin: 0;
-  padding: 0;
-  position: relative;
-    
-}
-
 .App-logo {
-  height: 30vmin;
+  height: 30vh;
   pointer-events: none;
 }
 
-.App-header {
-  
-  min-height: 100vh;
-  display: flex;  
-  align-items: center;
-  justify-content: center; 
-  gap: 10px;
-}
 
-.App-Title{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin-left:  10px;
-  
-}
-.App-Title h1 {
-  font-size: calc(2rem + 4vw);
-}
-.App-Title span{
-  font-size: 22px;
-}
-
-.App-footer{  
-  
-}
